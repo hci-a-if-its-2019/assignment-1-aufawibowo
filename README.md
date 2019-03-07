@@ -1,10 +1,10 @@
-# Contextual Inquiry and Analysis of Stockbit
+# Contextual Inquiry and Analysis of MOST
 
 ## Outline
 
-- [Contextual Inquiry and Analysis of Stockbit](#contextual-inquiry-and-analysis-of-stockbit)
+- [Contextual Inquiry and Analysis of MOST](#contextual-inquiry-and-analysis-of-most)
   - [Outline](#outline)
-  - [Stockbit Description](#stockbit-description)
+  - [Description](#description)
   - [Instruction Script](#instruction-script)
   - [User Description](#user-description)
   - [Transcript](#transcript)
@@ -15,47 +15,66 @@
   - [Do's and Don't's](#dos-and-donts)
 
 
-## Stockbit Description
-Stockbit is an investment community in Indonesia. Stockbit provides space for investors and traders to share ideas, news and other financial information in real time. 
+## Description
+MOST is a mobile application for Mandiri Sekuritas's client (hereinafter referred to as investors). Investors can do basic operation to their account such as buying stocks, selling stocks, checking portofolio, check current equity.
 
-Users can create profiles and follow certain stocks or favorite investors to get valuable information and exchange ideas. The main feature of Stockbit is "stream" consisting of ideas, stock charts, links and other financial data. Stockbit uses the sign "$" before the stock code as a tagging idea to make it easier for users to find information about certain individual stocks. The Stockbit platform is also integrated with other social media platforms, such as Twitter and Facebook, making it easy to share ideas in the Stockbit to Twitter accounts and Facebook users. 
 
-Stockbit is designed with focused features with the behavior of investors and traders so that it will be more useful as an investment-specific social media.
 
 ## Instruction Script
 
-1. Find out what is Stockbit.
-2. Sign up a new account.
-3. Open a virtual account.
-4. Buy/sell virtual stock.
-5. Find interesting post in Stockbit stream.
-6. Look for financial report.
-7. Explore pro features.
-
+1.  Buy and Sell Stock
+2.	Check portofolio
+3.	Check current equity
+4.	Use money withdraw feature
+5.	Explore features 
+6.  Logout-Login Experience
 ## User Description
-- User is a female user student of Engineering Physics Department ITS.
-- Her name is Farah.
-- She is able to use computer.
+- User is a female user student of Informatics Department ITS.
+- Her name is Azkia.
+- She is able to use smartphone.
 - She has no experience to stock investing.
-- 
+
 ## Transcript
 ```text
-1. Aufa     : Nah, tugas pertama adalah coba daftar sebagai akun baru di Stockbit
-2. Farah    : Oke, sign up?
-3. Farah    : Ini sasarannya orang Malaysia sama Indonesia ya?
-4. Farah    : Perlu verifikasi nih
-5. Aufa     : Oke, jadi ada salah satu fitur stockbit namanya virtual account. Coba Farah buka virtual account stockbit. Nanti tiap akun bakal dapet 100juta untuk simulasi transaksi saham. Dan nanti terserah kita mau milih saham apa.
-6. Farah    : Oke aku tahu ini milih ...
-7. Aufa     : Yha aku gatau, mari kita coba seintuitif mungkin
-8. Farah    : Nah, aku mau beli PT Astra Agro Lestari seharga satu juta dua ratus lima puluh lima rupiah.
-9. Aufa    : Oke, fitur selanjutnya adalah mencari informasi insightful dari suatu saham, gimana carinya?
-10. Farah   : Aku cari INDF coba ya.. Oke, jadi dari INDF ini ada beberapa yang menarik kaya rekomendasi buy beberapa saham gitu.
-11. Aufa    : okay
-12.
+1. Aufa     : Ini adalah apps Mandiri Sekuritas. Dan di apps ini kita bisa eksplorasi beberapa fitur yang ada. Task pertama yaitu kita mau beli sebuah saham. Terserah deh mau beli saham apa
+2. Azkia    : Udah
+3. Aufa     : Gampang ya kalo buy sell. Oke, coba kalo kita lanjut ke fitur selanjutnya. Yaitu, melihat portofolio
+4. Azkia    : Oke
+5. Aufa     : Oke, gampang ya. Nah, tugas selanjutnya adalah kita mau melihat laporan keuangan perusahaan. Tiap perusahaan kan punya laporan keuangan. Nah kalo di apps ini cara liatnya gimana
+6. Azkia    : Ini apa? Ini ga?
+7. Aufa     : Lho gatau haha. Coba kita cari supaya seintuitif mungkin.
+8. Azkia    : Mana sih??
+9. Aufa     : Rahasia dong. Coba cari lagi
+*2 minutes passing by*
+10. Azkia   : Ini gasih?
+11. Aufa    : Lho kalo itu kan buat cari sahamnya.
+12. Azkia   : Masuk disini ga?
+13. Aufa    : Bukaan bukaan wkwk
+14. Azkia   : Nyerah deh
+15. Aufa    : Coba masuk ke saham tertentu. Nah disitu kan ada area barnya. Coba scroll ke kanan sampai nemu financial sheet. 
+16. Azkia   : Oalaah
+17. Aufa    : Oke, task selanjutnya misalkan aku ada uang di rekening terus mau di *withdraw* , caranya gimana?
+18. Azkia   : Caranya gimana?
+19. Aufa    : Ya gatau lah.
+20. Aufa    : Oke bener. Nah ada satu fitur yang out-of the box. Yaitu kita juga bisa beli reksadana. Nah coba kita kalo mau beli reksadana gimana caranya?
+21. Azkia   : Bingung aku
+22. Aufa    : Yes bener gitu caranya. Coba kalo mau beli gimana caranya?
+23. Azkia   : Gini ya caranya
+24. Aufa    : Nah coba kalo sign out terus sign in lagi.
+25. Azkia   : *tapping back button often*
+26. Aufa    : Gimana pengalamannya?
+27. Azkia   : Biasa aja sih
+28. Aufa    : Lho tapikan kamu butuh berkali-kali tapping buat keluar gitu heheh
+29. Azkia   : Oalaah iyaiya
+30. AUfa    : Oke gitu aja.. Maasih ya
 ```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation](img/most1.png)
+![Artifact Model and Annotation](img/most2.png)
+![Artifact Model and Annotation](img/most3.png)
+![Artifact Model and Annotation](img/most4.png)
+![Artifact Model and Annotation](img/most5.png)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
