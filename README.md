@@ -16,9 +16,9 @@
 
 
 ## Description
-MOST is a mobile application for Mandiri Sekuritas's client (hereinafter referred to as investors). Investors can do basic operation to their account such as buying stocks, selling stocks, checking portofolio, check current equity.
+The stock market refers to the collection of markets and exchanges where the regular activities of buying, selling and issuance of shares of publicly held companies take place. To buy/sell an issuance of shares, investors must done it from broker or securities firm.
 
-
+Securities firm in Indonesia try to provide their best service to investors. One of them is Mandiri Sekuritas. MOST is a mobile application for Mandiri Sekuritas's client (hereinafter referred to as investors). Investors can do basic operation to their account such as buying stocks, selling stocks, checking portofolio, check current equity.
 
 ## Instruction Script
 
@@ -66,7 +66,9 @@ MOST is a mobile application for Mandiri Sekuritas's client (hereinafter referre
 27. Azkia   : Biasa aja sih
 28. Aufa    : Lho tapikan kamu butuh berkali-kali tapping buat keluar gitu heheh
 29. Azkia   : Oalaah iyaiya
-30. AUfa    : Oke gitu aja.. Maasih ya
+30. Aufa    : Nah, menurutmu aplikasinya Mandiri Sekuritas ini gimana?
+31. Azkia   : Hmm. menurutku bagus sih cuma iya bener kurang intuitif gitu. Terus text-text nya ini lho terlalu berdesakan menurutku. Kurang ada spasinya.
+32. Aufa    : Oke thankyou yah.
 ```
 ## Models and Annotations
 ### Artifact Model
@@ -76,6 +78,6 @@ MOST is a mobile application for Mandiri Sekuritas's client (hereinafter referre
 ### Flow Model
 ![Flow Model and Annotation](img/flowdiagram.jpg)
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation](img/cultural.jpg)
 ## Do's and Don't's
 Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
