@@ -13,6 +13,8 @@
     - [Flow Model](#flow-model)
     - [Cultural Model](#cultural-model)
   - [Do's and Don't's](#dos-and-donts)
+    - [Do's](#dos)
+    - [Don't's](#donts)
 
 
 ## Description
@@ -80,4 +82,13 @@ Securities firm in Indonesia try to provide their best service to investors. One
 ### Cultural Model
 ![Cultural Model and Annotation](img/cultural.jpg)
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+### Do's
+
+1. Place more iconic icon
+2. Pleasant view design rather than a compact and full of text
+3. Shadows for interactive box
+4. Make it more intuitive 
+  
+### Don't's
+
+1. Single color for every decision (exit, login, confirming) 
