@@ -26,20 +26,20 @@ MOST is a mobile application for Mandiri Sekuritas's client (hereinafter referre
 2.	Check portofolio
 3.	Check current equity
 4.	Use money withdraw feature
-5.	Explore features 
+5.	Find stock's financial fact
 6.  Logout-Login Experience
 ## User Description
-- User is a female user student of Informatics Department ITS.
+- User is a female student of Informatics Department ITS.
 - Her name is Azkia.
 - She is able to use smartphone.
-- She has no experience to stock investing.
+- She has just learned stock investing.
 
 ## Transcript
 ```text
 1. Aufa     : Ini adalah apps Mandiri Sekuritas. Dan di apps ini kita bisa eksplorasi beberapa fitur yang ada. Task pertama yaitu kita mau beli sebuah saham. Terserah deh mau beli saham apa
 2. Azkia    : Udah
 3. Aufa     : Gampang ya kalo buy sell. Oke, coba kalo kita lanjut ke fitur selanjutnya. Yaitu, melihat portofolio
-4. Azkia    : Oke
+4. Azkia    : Oke, ini juga kelihatan equitynya ya
 5. Aufa     : Oke, gampang ya. Nah, tugas selanjutnya adalah kita mau melihat laporan keuangan perusahaan. Tiap perusahaan kan punya laporan keuangan. Nah kalo di apps ini cara liatnya gimana
 6. Azkia    : Ini apa? Ini ga?
 7. Aufa     : Lho gatau haha. Coba kita cari supaya seintuitif mungkin.
@@ -74,7 +74,7 @@ MOST is a mobile application for Mandiri Sekuritas's client (hereinafter referre
 ![Artifact Model and Annotation](img/most456.jpg)
 
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](img/flowdiagram.jpg)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
