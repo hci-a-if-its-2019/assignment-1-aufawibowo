@@ -70,11 +70,9 @@ MOST is a mobile application for Mandiri Sekuritas's client (hereinafter referre
 ```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](img/most1.png)
-![Artifact Model and Annotation](img/most2.png)
-![Artifact Model and Annotation](img/most3.png)
-![Artifact Model and Annotation](img/most4.png)
-![Artifact Model and Annotation](img/most5.png)
+![Artifact Model and Annotation](img/most123.png)
+![Artifact Model and Annotation](img/most345.png)
+
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
