@@ -96,7 +96,7 @@ Securities firm in Indonesia try to provide their best service to investors. One
 # Remarks
 > * Thanks for completing all the parts in this assignment.
 > * You should not expose the participant's name in the report.
-> * The `Cultural Model` should illustrate the relationship between the participant and his/her environment/friends/experience that may affect the way they use the system (MOST). The current model is more like Artifact Model without screenshot.
+> * The `Cultural Model` should illustrate the relationship between the participant and his/her environment/friends/experience that may affect their feeling or the way they use the system (MOST). The current model is more like Artifact Model without screenshot. Please revisit the theoritical background and the examples of cultural/ social models to get better understanding.
 > * `Do's` #1 #2 #3 are good. But, #4 is too general. It should be more specific: how to achieve the intuitive design? etc.
 
 
