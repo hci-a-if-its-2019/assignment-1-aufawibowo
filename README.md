@@ -92,3 +92,14 @@ Securities firm in Indonesia try to provide their best service to investors. One
 ### Don't's
 
 1. Single color for every decision (exit, login, confirming) 
+
+# Remarks
+> * Thanks for completing all the parts in this assignment.
+> * You should not expose the participant's name in the report.
+> * The `Cultural Model` should illustrate the relationship between the participant and his/her environment/friends/experience that may affect the way they use the system (MOST). The current model is more like Artifact Model without screenshot.
+> * `Do's` #1 #2 #3 are good. But, #4 is too general. It should be more specific: how to achieve the intuitive design? etc.
+
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 7                | 0               | 85,5               | 79         | 84,2  |
